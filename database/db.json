@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Raymond",
+      "password": "123456"
+    },
+    {
+      "id": "c59b",
+      "username": "stephen",
+      "password": "$2b$07$S7LYBadPbqJ6xd4gGb.iMeq3Nmy6NChk11uEIjsieUAMw2ER0CRBi"
+    },
+    {
+      "id": "6c7c",
+      "username": "stephen",
+      "password": "$2b$07$XawwZ1XRrpmpD.4iHb/35uUygbX4PeMsaNYlgTPnUs6FZ9s3W7kEW"
+    },
+    {
+      "id": "0ff0",
+      "username": "lisa",
+      "password": "$2b$07$lEUWZwz7h7IfJtMHdTJePeq1gPBXkeZ6/i0ZlFA2t5xiXLxkGX3na"
+    },
+    {
+      "id": "8d12",
+      "username": "sam",
+      "password": "$2b$07$qDJUvxni5uBNUGRKyjul7eFvkPXrpe2CyQCeEX6E5abwGTgkWtCOG"
+    },
+    {
+      "id": "0fc2",
+      "username": "SSSaaa",
+      "password": "$2b$07$rk.YuRk3I52m7vuPIsB55.1YcOvIYVItfj2CAvM0K1A.zSvswREsa"
+    }
+  ],
+  "bcrypt": [
+    {
+      "id": "1",
+      "saltRounds": 7
+    },
+    {
+      "id": "2",
+      "saltRounds": 10
+    }
+  ]
+}
